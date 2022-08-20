@@ -14,3 +14,9 @@ tema visual studio code
 
 ### Linux ?
 - Cari sendiri hehe
+
+## Screenshot
+[<img weight="500" src="./asset/ss-1.png" alt="SS-1"/>](./asset/ss-1.png)
+[<img weight="500" src="./asset/ss-1.png" alt="SS-2"/>](./asset/ss-2.png)
+[<img weight="500" src="./asset/ss-1.png" alt="SS-3"/>](./asset/ss-3.png)
+[<img weight="500" src="./asset/ss-1.png" alt="SS-4"/>](./asset/ss-4.png)
