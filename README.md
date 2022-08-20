@@ -20,6 +20,6 @@ tema visual studio code
 
 ## Screenshot
 <img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-1"/>
-<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-2"/>
-<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-3"/>
-<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-4"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-2.png" alt="SS-2"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-3.png" alt="SS-3"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-4.png" alt="SS-4"/>
