@@ -4,7 +4,7 @@ tema visual studio code
 ## Cara pakai
 ### Windows
 - Buka Windows Explorer
-- copas ini alamat <b>"C:\Users\%username%\.vscode\extensions\"</b>
+- copas ini alamat <b>"C:\Users\\%username%\\.vscode\extensions\"</b>
 - Letakkan folder projek disana
 - Buka Visual Studio Code
 - Menuju ke Tab <b>Extensions</b> atau tekan <b>CTRL+SHIFT+X</b>
