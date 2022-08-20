@@ -19,7 +19,7 @@ tema visual studio code
 - Tema yang terinspirasi dari [`BeardedBear`](https://github.com/BeardedBear/bearded-theme)
 
 ## Screenshot
-[<img weight="500" src="./asset/ss-1.png" alt="SS-1"/>](./asset/ss-1.png)
-[<img weight="500" src="./asset/ss-1.png" alt="SS-2"/>](./asset/ss-2.png)
-[<img weight="500" src="./asset/ss-1.png" alt="SS-3"/>](./asset/ss-3.png)
-[<img weight="500" src="./asset/ss-1.png" alt="SS-4"/>](./asset/ss-4.png)
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-1"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-2"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-3"/>
+<img weight="500" src="https://github.com/cr4r/cr4r.black/raw/main/asset/ss-1.png" alt="SS-4"/>
