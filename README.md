@@ -16,7 +16,7 @@ tema visual studio code
 - Cari sendiri hehe
 
 ## Terima kasih
-- Tema yang terinspirasi dari [`adiwajshing`](https://github.com/adiwajshing/Baileys)
+- Tema yang terinspirasi dari [`BeardedBear`](https://github.com/BeardedBear/bearded-theme)
 
 ## Screenshot
 [<img weight="500" src="./asset/ss-1.png" alt="SS-1"/>](./asset/ss-1.png)
