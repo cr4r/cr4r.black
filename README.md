@@ -15,6 +15,9 @@ tema visual studio code
 ### Linux ?
 - Cari sendiri hehe
 
+## Terima kasih
+- Tema yang terinspirasi dari [`adiwajshing`](https://github.com/adiwajshing/Baileys)
+
 ## Screenshot
 [<img weight="500" src="./asset/ss-1.png" alt="SS-1"/>](./asset/ss-1.png)
 [<img weight="500" src="./asset/ss-1.png" alt="SS-2"/>](./asset/ss-2.png)
